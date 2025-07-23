@@ -1,4 +1,4 @@
-<!-- Profile README for bwmxmdtech -->
+<!-- Profile README for bwmxmd254 -->
 
 
 <p align="center">
@@ -48,9 +48,9 @@ Explore all my projects at 👉 [bwmxmd.online](https://bwmxmd.online)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bwmxmdtech&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bwmxmd254&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwmxmdtech&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwmxmd254&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
