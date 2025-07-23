@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/bwmxmdtech.png" width="250" height="250" alt="Ibrahim Adams - bwmxmdtech" style="border-radius:50%" />
+  <img src="https://github.com/bwmxmd254.png" width="250" height="250" alt="Ibrahim Adams - bwmxmdtech" style="border-radius:50%" />
 </p>
 
 
