@@ -23,13 +23,12 @@
 
 ## 🚀 Projects
 
-Explore all my projects at 👉 [bwmxmd.online](https://bwmxmd.online)
+Explore all my projects at 👉 [bwmxmd.online](https://bwmxmd.co.ke)
 
 ---
 
 ## 📱 Socials
 
-[![YouTube](https://img.shields.io/badge/YouTube-%40ibrahimaitech-red?style=flat&logo=youtube)](https://youtube.com/@ibrahimaitech)
 [![X (Twitter)](https://img.shields.io/badge/X-%40ibrahimaitech-black?style=flat&logo=x)](https://twitter.com/ibrahimaitech)
 [![Instagram](https://img.shields.io/badge/Instagram-%40bwm__xmd__official-purple?style=flat&logo=instagram)](https://instagram.com/bwm_xmd_official)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/)
