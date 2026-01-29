@@ -44,7 +44,7 @@ Explore all my projects at 👉 [bwmxmd.online](https://bwmxmd.co.ke)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bwmxmd254&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
